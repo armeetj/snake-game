@@ -6,7 +6,7 @@ const columns = canvas.width /scale;
 
 //our snake
 var snake;
-var interval = 180;
+var interval = 120;
 
 //setup function
 (function setup()
