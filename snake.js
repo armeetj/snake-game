@@ -4,11 +4,11 @@ const scale = 10;
 const rows = canvas.height /scale;
 const columns = canvas.width /scale;
 
-//our snake
+// our snake
 var snake;
 var interval = 120;
 
-//setup function
+// setup function
 (function setup()
 {
     //make the snake and draw it
