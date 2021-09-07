@@ -1,4 +1,4 @@
-# Snake Game 
+# Snake Game 🐍
 `@armeetjatyani` `2019` `HTML` `JavaScript`
 ## Intro
 - I made this when I was learning HTML, CSS, and JavaScript.
